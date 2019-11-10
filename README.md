@@ -1,1 +1,1 @@
-# management-theory
+# control-theory
